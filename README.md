@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisanthsiva&show_icons=true&theme=dark)](https://github.com/nisanthsiva/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisanthsiva&size_weight=0.5&count_weight=0.5)](https://github.com/nisanthsiva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisanthsiva&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/nisanthsiva/github-readme-stats)
 
 <!--
 **nisanthsiva/nisanthsiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
